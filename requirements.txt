@@ -1,5 +1,6 @@
 googletrans
 deep_translator
+PyTelegramBotAPI
 telebot
 asyncio
 datetime
