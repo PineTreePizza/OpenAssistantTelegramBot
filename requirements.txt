@@ -2,7 +2,6 @@ googletrans
 deep_translator
 telebot
 asyncio
-telebot.async_telebot
 os
 math
 datetime
