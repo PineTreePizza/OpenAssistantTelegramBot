@@ -2,4 +2,8 @@ googletrans
 deep_translator
 telebot
 asyncio
-aiohttp
+telebot.async_telebot
+os
+math
+datetime
+requests
