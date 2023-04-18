@@ -2,6 +2,5 @@ googletrans
 deep_translator
 telebot
 asyncio
-math
 datetime
 requests
