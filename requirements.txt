@@ -2,3 +2,4 @@ googletrans
 deep_translator
 telebot
 asyncio
+aiohttp
